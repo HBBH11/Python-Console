@@ -6,7 +6,6 @@ A modern, web-based Python console built with Streamlit, specifically designed f
 
 ![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![Streamlit Version](https://img.shields.io/badge/streamlit-1.0+-red.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 
 ## ✨ Features
 
